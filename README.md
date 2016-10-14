@@ -1,0 +1,9 @@
+#设备检修管理系统
+###1、原型说明
+首页：  
+![首页](http://c.hiphotos.baidu.com/image/w%3D310/sign=494a5bd452afa40f3cc6c8dc9b65038c/060828381f30e924822370d744086e061c95f755.jpg)  
+目录：  
+![目录](http://h.hiphotos.baidu.com/image/w%3D310/sign=20259f71d133c895a67e9e7ae1127397/8ad4b31c8701a18ba8d7faa9962f07082838fe1c.jpg)  
+点击查看，可以查看设备的保养报告（只设置了一个，蓝色的）  
+巡检录入：  
+![巡检录入](http://b.hiphotos.baidu.com/image/w%3D310/sign=5fe47505f51f4134e037037f151d95c1/b7fd5266d016092452e24afddc0735fae7cd3415.jpg)
